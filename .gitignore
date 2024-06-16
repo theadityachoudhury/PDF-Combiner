@@ -1,0 +1,5 @@
+dist
+build
+merge_log.txt
+merge_history.txt
+*.spec
